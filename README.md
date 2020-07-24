@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hi, I'm Annie Liang, a programmer newbie 💻. I LOVE stree food 🥗🥩🌮🍣!
+Hi, I'm Annie Liang, a programmer newbie 💻. I'm studying MCIT at UPenn and I LOVE CODING!
 
 - 🔭 I’m currently working on Data Structure and Computer Design.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java from JetBrains Academy.
 - 💼 I’m pursuing a Master's degree of Computer Science at Upenn.
 - 💬 Ask me about anything!
 - 📫 How to reach me: angnanliang@hotmail.com
