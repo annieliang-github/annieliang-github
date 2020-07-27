@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Annie Liang, a programmer newbie 💻. 
+I'm Annie Liang, a programmer newbie 💻. 
 
 - 🔭 I’m currently working on Data Structure and Computer Design.
 - 🌱 I’m learning Java from JetBrains Academy.
